@@ -1,2 +1,3 @@
 # demo-repo
-Trial
+## Description
+This is a demo repository to start understanding how Git works
